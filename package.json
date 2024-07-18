@@ -1,0 +1,17 @@
+{
+  "name": "express-gaming",
+  "version": "1.0.0",
+  "description": "ONLY .gitignore node_modules\\*",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "morgan": "^1.10.0",
+    "uuid": "^10.0.0"
+  }
+}
